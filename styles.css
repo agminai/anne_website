@@ -2,7 +2,7 @@
 /*Maple Leaf Tutoring Header Background */
 #header {
 background: #D0E2FF; /*color of top header */
-width:100%; /* 1000px / 1000px = 1 */
+width:1000px; /* 1000px / 1000px = 1 */
 height:112px;
 font-size:22px;
 margin:0px; /*dont delete */
@@ -35,7 +35,7 @@ left: 30px;
   background-color: #B9B7B7;
   overflow: hidden;
   position:absolute;
-  top:112px;
+  top:11.2%; /* 112px */
   left:0px; /*dont delete */
   width:100%;
 }
@@ -49,7 +49,7 @@ left: 30px;
   text-decoration: none;
   font-size: 17px;
   font-family: Palatino;
-  width:21.8%;
+  width:21.8%; /* 218px */
 }
 
 /* Change the color of links on hover */
@@ -71,7 +71,7 @@ font-family:Palatino;
 background:	#D0E2FF; /* Background color of main section */
 width: 100%;
 position:absolute;
-top:159px;
+top:15.9%; /* 159px */
 left:0px; /*dont delete */
 }
 
@@ -91,5 +91,5 @@ left:10px;
 /* Calendar and form */
 iframe {
 position:absolute;
-top:80px;
+top:8%; /* 80px */
 }
