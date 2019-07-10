@@ -2,7 +2,7 @@
 /*Maple Leaf Tutoring Header Background */
 #header {
 background: #D0E2FF; /*color of top header */
-width:1000px; /* 1000px / 1000px = 1 */
+width:100%; /* 1000px */
 height:112px;
 font-size:22px;
 margin:0px; /*dont delete */
