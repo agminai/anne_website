@@ -91,28 +91,10 @@ position:absolute;
 left:30px;
 }
 
-/* Calendar and form */
+/* Calendar and form positioning */
 iframe {
 position:absolute;
 top:80px;
 padding-top: 20px;
-}
-*/
-
-/*
-#main calendar {
-  position:relative;
-  top:140px;
-  left:30px;
-  /*height: 1500px;
-  width: 45%;
-}
-
-#main form {
-  width: 45%;
-  position:relative;
-  top:140px;
-  left:500px;
-  /*height:2000px;
 }
 */
