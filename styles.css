@@ -98,7 +98,7 @@ top:80px;
 }
 */
 
-.calendar {
+#main calendar {
   position:absolute;
   top:140px;
   left:30px;
@@ -106,7 +106,7 @@ top:80px;
   width: 45%;
 }
 
-.form {
+#main form {
   width: 45%;
   position:absolute;
   top:140px;
