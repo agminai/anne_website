@@ -81,7 +81,7 @@ left:0px; /*dont delete */
 /*Paragraphs within main */
 #main p {
 position:absolute;
-left:30px;
+padding:0px 30px 0px 30px;
 }
 
 /* Section header in main */
