@@ -98,16 +98,16 @@ top:80px;
 */
 
 .calendar {
-  width: 100%;
-  position:relative;
+  position:absolute;
   top:60px;
   left:30px;
   height:500px; /* 500px */
+  width: 500px;
 }
 
 .form {
-  width:100%;
+  width:500px;
   position:relative;
-  top:40px;
+  top:30px;
   left:30px;
 }
