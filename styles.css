@@ -71,7 +71,7 @@ font-family:Palatino;
 background:	#D0E2FF; /* Background color of main section */
 width: 100%;
 position:absolute;
-top:15.9%; /* 159px */
+top:159px;
 left:0px; /*dont delete */
 }
 
@@ -91,5 +91,5 @@ left:10px;
 /* Calendar and form */
 iframe {
 position:absolute;
-top:8%; /* 80px */
+top:80px;
 }
