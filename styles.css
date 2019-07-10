@@ -99,7 +99,7 @@ top:80px;
 
 .calendar {
   position:absolute;
-  top:70px;
+  top:140px;
   left:30px;
   height:500px; /* 500px */
   width: 45%;
@@ -107,7 +107,7 @@ top:80px;
 
 .form {
   width: 45%;
-  position:relative;
-  top:70px;
-  left:30px;
+  position:absolute;
+  top:140px;
+  left:500px;
 }
