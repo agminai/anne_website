@@ -68,7 +68,7 @@ left: 30px;
 #main {
 font-size:18px;
 font-family:Palatino;
-background:	#D0E2FF; /* Background color of main section */
+background:white;	/*#D0E2FF; /* Background color of main section */
 width: 100%;
 position:absolute;
 top:159px;
